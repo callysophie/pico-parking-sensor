@@ -8,3 +8,5 @@ Parts list:
 4. 3x 220 Ohm resistors
 5. Solderless breadboard
 6. Jumpers
+
+To adjust this project for your own use, you'll have to adjust the distances in the if statements.
